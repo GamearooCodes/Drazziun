@@ -1,0 +1,24 @@
+{
+  "name": "drazziun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamearooCodes/Drazziun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamearooCodes/Drazziun/issues"
+  },
+  "homepage": "https://github.com/GamearooCodes/Drazziun#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "mongoose": "^7.0.2",
+    "ram-api.js": "^13.0.1"
+  }
+}
